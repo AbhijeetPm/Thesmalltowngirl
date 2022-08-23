@@ -1,0 +1,1 @@
+from Blog.wsgi import application
